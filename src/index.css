@@ -1,3 +1,22 @@
+*{
+  box-sizing: border-box;
+  border: 1px solid #4F4F4f;
+}
+
+.header{
+  display: flex;
+  justify-content:;
+}
+
+.header h3{
+  margin-right: 65%;
+}
+
+.header button{
+  width: 10%;
+  margin: 2% 0 2%;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',

@@ -3,8 +3,12 @@ import React from "react";
 const App = () => {
   return (
     <>
-      <h1>Lambda Eats</h1>
-      <p>You can remove this code and create your own header</p>
+    <div className='header'>
+      <h3>Lambda Eats</h3>
+      <button className='home-page home-link'>Home</button>
+      <button className='home-page help-link'>Help</button>
+    </div>
+      <div className='home-page img'></div>
     </>
   );
 };
