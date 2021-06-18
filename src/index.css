@@ -16,6 +16,38 @@
   width: 10%;
   margin: 2% 0 2%;
 }
+.intro img{
+  /* background-image: url('https://img.freepik.com/free-photo/quinoa-mushrooms-lettuce-red-cabbage-spinach-cucumbers-tomatoes-bowl-buddha-dark-top-view_127032-1963.jpg?size=626&ext=jpg') ; */
+  /* background-position: center; */
+  width: 100%;
+}
+
+.intro{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+} 
+
+.pizzaBtn{
+  width: 10%;
+  padding: 1%;
+  margin-top: 1%;
+}
+
+.restaurants-section img{
+  width: 70%;
+}
+
+.restaurants-section{
+  display: flex;
+  text-align: center;
+  width: ;
+}
+
+.restaurants-section span{
+border: 2px solid black;
+ 
+}
 
 body {
   margin: 0;
